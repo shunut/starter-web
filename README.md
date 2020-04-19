@@ -12,7 +12,7 @@ Something abot deployment
 
 ## How to contribute
 
-Something about contributing
+Something about contributing, something else
 
 ## Copyright
 Copyright 2020 Josh
