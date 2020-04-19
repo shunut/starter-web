@@ -13,3 +13,6 @@ Something abot deployment
 ## How to contribute
 
 Something about contributing
+
+## Copyright
+Copyright 2020 Josh
